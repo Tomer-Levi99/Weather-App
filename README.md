@@ -1,11 +1,11 @@
 # Weather App
 
 ## Usage
-1.Input the name of a city and press "search" or hit enter.
-2. There current weather data for the city will be displayed.
-3.Add the city to your favorites if you wish, by pressing the "Add to favorites" button.
-4. View your favorite cities by pressing the "Favorites" button.
-5. Remove a city from the favorites list by pressing "Remove".
+- Input the name of a city and press "search" or hit enter.
+- There current weather data for the city will be displayed.
+- Add the city to your favorites if you wish, by pressing the "Add to favorites" button.
+- View your favorite cities by pressing the "Favorites" button.
+- Remove a city from the favorites list by pressing "Remove".
 
 This is a weather application built using C++ and Dear ImGui for the GUI. The application fetches weather data for a specified city from the OpenWeatherMap API and displays it along with weather icons.
 
