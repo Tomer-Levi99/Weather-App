@@ -1,6 +1,6 @@
 # Weather App
 
-##Usage
+## Usage
 1.Input the name of a city and press "search" or hit enter.
 2. There current weather data for the city will be displayed.
 3.Add the city to your favorites if you wish, by pressing the "Add to favorites" button.
