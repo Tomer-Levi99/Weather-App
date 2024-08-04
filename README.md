@@ -24,10 +24,7 @@ This is a weather application built using C++ and Dear ImGui for the GUI. The ap
 - httplib
 
 ## Building and Running
-g++ -std=c++11 -I path_to_glfw_include -I path_to_imgui_include -I path_to_json_include -I path_to_httplib_include main.cpp -L path_to_glfw_lib -lglfw -lGL -o weather_app
-
-Run the executable:
-./weather_app
+Use Visual studio to run and compile the program.
 
 ### Prerequisites
 
